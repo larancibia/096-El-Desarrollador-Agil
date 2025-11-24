@@ -5,6 +5,22 @@
 
 > Un libro técnico de no-ficción con rigor científico, creado en 30 minutos usando el **AI Scientific Book System**.
 
+## 📥 **DESCARGA DIRECTA DEL PDF**
+
+### ⬇️ **[DESCARGAR PDF DEL LIBRO (248 KB)](https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/El_Desarrollador_Agil_v1.pdf)**
+
+**Link directo:**
+```
+https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/El_Desarrollador_Agil_v1.pdf
+```
+
+**Contenido del PDF:**
+- 15,500+ palabras
+- 50+ páginas
+- Capítulo 1 completo (bestseller-quality)
+- 4 experimentos científicos
+- 50+ referencias
+
 ---
 
 ## 🎯 SOBRE EL LIBRO
