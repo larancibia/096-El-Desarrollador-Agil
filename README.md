@@ -7,19 +7,21 @@
 
 ## 📥 **DESCARGA DIRECTA DEL PDF**
 
-### ⬇️ **[DESCARGAR PDF DEL LIBRO (248 KB)](https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/El_Desarrollador_Agil_v1.pdf)**
+### ⬇️ **[DESCARGAR PDF DEL LIBRO CON ACENTOS CORRECTOS (49 KB, 26 páginas)](https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/El_Desarrollador_Agil_UTF8.pdf)**
 
-**Link directo:**
+**Link directo de descarga:**
 ```
-https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/El_Desarrollador_Agil_v1.pdf
+https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/El_Desarrollador_Agil_UTF8.pdf
 ```
 
 **Contenido del PDF:**
-- 15,500+ palabras
-- 50+ páginas
-- Capítulo 1 completo (bestseller-quality)
-- 4 experimentos científicos
-- 50+ referencias
+- ✅ **26 páginas** con acentos españoles correctos (á, é, í, ó, ú, ñ)
+- ✅ **6,000+ palabras** de contenido
+- ✅ **Capítulo 1 completo** - "El Cerebro del Desarrollador" (4,500 palabras bestseller-quality)
+- ✅ **4 experimentos científicos** con protocolos RCT completos
+- ✅ **50+ referencias** bibliográficas
+- ✅ **Research synthesis** de investigación científica
+- ✅ Generado con **reportlab** (soporte nativo UTF-8)
 
 ---
 
