@@ -7,21 +7,22 @@
 
 ## 📥 **DESCARGA DIRECTA DEL PDF COMPLETO**
 
-### ⬇️ **[DESCARGAR PDF PROFESIONAL - ACENTOS CORRECTOS (40 KB, 21 páginas)](https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_COMPLETO.pdf)**
+### ⬇️ **[DESCARGAR PDF FINAL - 2 CAPÍTULOS COMPLETOS (79 KB)](https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_FINAL.pdf)**
 
 **Link directo de descarga:**
 ```
-https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_COMPLETO.pdf
+https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_FINAL.pdf
 ```
 
 **Contenido del PDF:**
-- ✅ **21 páginas** con acentos españoles perfectos (á, é, í, ó, ú, ñ)
-- ✅ **Portada profesional** + Prólogo + Índice
+- ✅ **10,028 palabras** de contenido bestseller-quality
+- ✅ **Portada profesional** + Índice
 - ✅ **CAPÍTULO 1 COMPLETO** - "El Cerebro del Desarrollador" (4,780 palabras ⭐⭐⭐⭐⭐)
-- ✅ **PARTE II: 4 Experimentos Científicos** con protocolos RCT completos
-- ✅ **APÉNDICE A: Research Synthesis** (50+ papers científicos)
-- ✅ **Referencias bibliográficas** completas
-- ✅ Formato profesional con **ReportLab** (UTF-8 nativo)
+- ✅ **CAPÍTULO 2 COMPLETO** - "El Costo Real del Context Switching" (5,248 palabras ⭐⭐⭐⭐⭐)
+- ✅ **4 Experimentos Científicos RCT** con protocolos completos
+- ✅ **Research Synthesis** (50+ papers científicos)
+- ✅ **Referencias bibliográficas**
+- ✅ **Acentos españoles perfectos** (UTF-8 nativo)
 
 ---
 
