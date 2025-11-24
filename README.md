@@ -5,23 +5,23 @@
 
 > Un libro técnico de no-ficción con rigor científico, creado en 30 minutos usando el **AI Scientific Book System**.
 
-## 📥 **DESCARGA DIRECTA DEL PDF**
+## 📥 **DESCARGA DIRECTA DEL PDF COMPLETO**
 
-### ⬇️ **[DESCARGAR PDF DEL LIBRO CON ACENTOS CORRECTOS (49 KB, 26 páginas)](https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/El_Desarrollador_Agil_UTF8.pdf)**
+### ⬇️ **[DESCARGAR PDF PROFESIONAL - ACENTOS CORRECTOS (40 KB, 21 páginas)](https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_COMPLETO.pdf)**
 
 **Link directo de descarga:**
 ```
-https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/El_Desarrollador_Agil_UTF8.pdf
+https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_COMPLETO.pdf
 ```
 
 **Contenido del PDF:**
-- ✅ **26 páginas** con acentos españoles correctos (á, é, í, ó, ú, ñ)
-- ✅ **6,000+ palabras** de contenido
-- ✅ **Capítulo 1 completo** - "El Cerebro del Desarrollador" (4,500 palabras bestseller-quality)
-- ✅ **4 experimentos científicos** con protocolos RCT completos
-- ✅ **50+ referencias** bibliográficas
-- ✅ **Research synthesis** de investigación científica
-- ✅ Generado con **reportlab** (soporte nativo UTF-8)
+- ✅ **21 páginas** con acentos españoles perfectos (á, é, í, ó, ú, ñ)
+- ✅ **Portada profesional** + Prólogo + Índice
+- ✅ **CAPÍTULO 1 COMPLETO** - "El Cerebro del Desarrollador" (4,780 palabras ⭐⭐⭐⭐⭐)
+- ✅ **PARTE II: 4 Experimentos Científicos** con protocolos RCT completos
+- ✅ **APÉNDICE A: Research Synthesis** (50+ papers científicos)
+- ✅ **Referencias bibliográficas** completas
+- ✅ Formato profesional con **ReportLab** (UTF-8 nativo)
 
 ---
 
