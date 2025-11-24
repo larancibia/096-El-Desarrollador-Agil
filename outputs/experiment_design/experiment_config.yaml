@@ -1,0 +1,118 @@
+full_text: "```yaml\nexperiment_protocol:\n  meta:\n    title: \"Effect of 45-Minute\
+  \ Time-Boxing on Developer Productivity\"\n    version: \"1.0.0\"\n    author: \"\
+  Gemini CLI Agent\"\n    last_updated: \"2025-11-24\"\n\n  hypothesis:\n    h0_null:\
+  \ \"There is no statistically significant difference in normalized story point velocity\
+  \ between developers using a 45-minute work/break cycle and those using a standard\
+  \ 25-minute cycle.\"\n    h1_alternative: \"Developers utilizing a 45-minute work/break\
+  \ cycle demonstrate a statistically significant increase (specifically testing for\
+  \ +30%) in normalized story point velocity compared to the control group.\"\n\n\
+  \  experimental_design:\n    type: \"Randomized Controlled Trial (RCT) with Stratified\
+  \ Sampling\"\n    justification: \"A between-subjects RCT minimizes carryover effects\
+  \ (e.g., cognitive fatigue or habit formation) that would complicate a crossover\
+  \ design. Stratification ensures balanced representation of seniority levels across\
+  \ groups.\"\n    groups:\n      group_A: \"Experimental (Long Cycle: 45m work /\
+  \ 15m break)\"\n      group_B: \"Control (Standard Cycle: 25m work / 5m break)\"\
+  \n\n  variables:\n    independent:\n      name: \"Work Cycle Duration\"\n      type:\
+  \ \"Categorical\"\n      levels:\n        - \"45 minutes work / 15 minutes break\"\
+  \n        - \"25 minutes work / 5 minutes break\"\n    dependent:\n      primary:\n\
+  \        name: \"Normalized Velocity Change\"\n        description: \"Percentage\
+  \ change in weekly completed Story Points relative to individual pre-experiment\
+  \ baseline.\"\n        units: \"Percentage (%)\"\n        measurement_method: \"\
+  (Weekly_SP - Baseline_SP) / Baseline_SP\"\n      secondary:\n        - name: \"\
+  Focus Quality\"\n          units: \"Likert Scale (1-10)\"\n          measurement_method:\
+  \ \"Daily self-report survey\"\n        - name: \"Interrupt Frequency\"\n      \
+  \    units: \"Count/Day\"\n          measurement_method: \"Self-logged tally\"\n\
+  \    control:\n      - \"Role (Software Engineers only)\"\n      - \"Project Phase\
+  \ (Exclude teams in critical crunch/release freeze)\"\n      - \"Tooling (Both groups\
+  \ use the same timer application, configured differently)\"\n      - \"Work Environment\
+  \ (Remote/Office mix distributed equally)\"\n\n  randomization:\n    strategy: \"\
+  Stratified Random Assignment\"\n    strata:\n      - \"Seniority (Junior, Mid, Senior)\"\
+  \n      - \"Stack (Frontend, Backend, DevOps)\"\n    method: \"Computer-generated\
+  \ random sequence within each stratum.\"\n\n  data_collection:\n    tools:\n   \
+  \   - \"Project Management API (Jira/Linear/Trello) for Story Points\"\n      -\
+  \ \"Automated Timer Logger (Custom script or app export) for adherence\"\n     \
+  \ - \"Daily Micro-Survey (Google Forms/Typeform)\"\n    schedule:\n      baseline_phase:\
+  \ \"Week -2 to Week 0 (Historical data extraction)\"\n      active_phase: \"Week\
+  \ 1 to Week 6 (Daily logging + Weekly velocity export)\"\n      review_phase: \"\
+  Week 7 (Data cleaning)\"\n\n  sample_size:\n    n_total: 80\n    n_per_group: 40\n\
+  \    power_analysis:\n      alpha: 0.05\n      power: 0.80\n      effect_size_d:\
+  \ 0.63\n      justification: \"To detect a 30% improvement with moderate variance,\
+  \ N=40 per group provides sufficient power (>0.80) at \u03B1=0.05.\"\n\n  statistical_analysis:\n\
+  \    primary_test: \"Independent Samples t-test (one-tailed)\"\n    secondary_test:\
+  \ \"Mann-Whitney U test (if normality assumption is violated)\"\n    data_handling:\n\
+  \      outliers: \"Winsorize top/bottom 5% of velocity changes to handle sprint\
+  \ anomalies.\"\n      missing_data: \"Exclude participants with <75% protocol adherence\
+  \ (Per-Protocol Analysis).\"\n\n  threats_to_validity:\n    internal:\n      - \"\
+  Adherence: Participants may not strictly follow the timer.\"\n        - *Mitigation:*\
+  \ Use automated logger; require screen-time screenshot or active timer logs.\n \
+  \     - \"Story Point Inflation: Teams might inflate points to look 'productive'.\"\
+  \n        - *Mitigation:* Use 'Normalized Velocity' against their own history, assuming\
+  \ inflation rate is constant over 6 weeks.\n    external:\n      - \"Task Complexity:\
+  \ 45m might suit backend deep work better than support tickets.\"\n        - *Mitigation:*\
+  \ Stratification by role type.\n\n  ethics:\n    consent: \"Written informed consent\
+  \ required.\"\n    privacy: \"Data pseudonymized. Individual performance data explicitly\
+  \ NOT shared with managers/HR.\"\n    risk_mitigation: \"Participants advised to\
+  \ revert to normal working patterns if experiencing excessive fatigue.\"\n\n  timeline_execution:\n\
+  \    week_0: \"Recruitment, Consent, Baseline Calculation, Group Assignment.\"\n\
+  \    week_1: \"Onboarding & Tool Setup (Dry run).\"\n    week_2_5: \"Core Experiment\
+  \ execution.\"\n    week_6: \"Final week & Post-experiment qualitative interview.\"\
+  \n```"
+raw_response: "```yaml\nexperiment_protocol:\n  meta:\n    title: \"Effect of 45-Minute\
+  \ Time-Boxing on Developer Productivity\"\n    version: \"1.0.0\"\n    author: \"\
+  Gemini CLI Agent\"\n    last_updated: \"2025-11-24\"\n\n  hypothesis:\n    h0_null:\
+  \ \"There is no statistically significant difference in normalized story point velocity\
+  \ between developers using a 45-minute work/break cycle and those using a standard\
+  \ 25-minute cycle.\"\n    h1_alternative: \"Developers utilizing a 45-minute work/break\
+  \ cycle demonstrate a statistically significant increase (specifically testing for\
+  \ +30%) in normalized story point velocity compared to the control group.\"\n\n\
+  \  experimental_design:\n    type: \"Randomized Controlled Trial (RCT) with Stratified\
+  \ Sampling\"\n    justification: \"A between-subjects RCT minimizes carryover effects\
+  \ (e.g., cognitive fatigue or habit formation) that would complicate a crossover\
+  \ design. Stratification ensures balanced representation of seniority levels across\
+  \ groups.\"\n    groups:\n      group_A: \"Experimental (Long Cycle: 45m work /\
+  \ 15m break)\"\n      group_B: \"Control (Standard Cycle: 25m work / 5m break)\"\
+  \n\n  variables:\n    independent:\n      name: \"Work Cycle Duration\"\n      type:\
+  \ \"Categorical\"\n      levels:\n        - \"45 minutes work / 15 minutes break\"\
+  \n        - \"25 minutes work / 5 minutes break\"\n    dependent:\n      primary:\n\
+  \        name: \"Normalized Velocity Change\"\n        description: \"Percentage\
+  \ change in weekly completed Story Points relative to individual pre-experiment\
+  \ baseline.\"\n        units: \"Percentage (%)\"\n        measurement_method: \"\
+  (Weekly_SP - Baseline_SP) / Baseline_SP\"\n      secondary:\n        - name: \"\
+  Focus Quality\"\n          units: \"Likert Scale (1-10)\"\n          measurement_method:\
+  \ \"Daily self-report survey\"\n        - name: \"Interrupt Frequency\"\n      \
+  \    units: \"Count/Day\"\n          measurement_method: \"Self-logged tally\"\n\
+  \    control:\n      - \"Role (Software Engineers only)\"\n      - \"Project Phase\
+  \ (Exclude teams in critical crunch/release freeze)\"\n      - \"Tooling (Both groups\
+  \ use the same timer application, configured differently)\"\n      - \"Work Environment\
+  \ (Remote/Office mix distributed equally)\"\n\n  randomization:\n    strategy: \"\
+  Stratified Random Assignment\"\n    strata:\n      - \"Seniority (Junior, Mid, Senior)\"\
+  \n      - \"Stack (Frontend, Backend, DevOps)\"\n    method: \"Computer-generated\
+  \ random sequence within each stratum.\"\n\n  data_collection:\n    tools:\n   \
+  \   - \"Project Management API (Jira/Linear/Trello) for Story Points\"\n      -\
+  \ \"Automated Timer Logger (Custom script or app export) for adherence\"\n     \
+  \ - \"Daily Micro-Survey (Google Forms/Typeform)\"\n    schedule:\n      baseline_phase:\
+  \ \"Week -2 to Week 0 (Historical data extraction)\"\n      active_phase: \"Week\
+  \ 1 to Week 6 (Daily logging + Weekly velocity export)\"\n      review_phase: \"\
+  Week 7 (Data cleaning)\"\n\n  sample_size:\n    n_total: 80\n    n_per_group: 40\n\
+  \    power_analysis:\n      alpha: 0.05\n      power: 0.80\n      effect_size_d:\
+  \ 0.63\n      justification: \"To detect a 30% improvement with moderate variance,\
+  \ N=40 per group provides sufficient power (>0.80) at \u03B1=0.05.\"\n\n  statistical_analysis:\n\
+  \    primary_test: \"Independent Samples t-test (one-tailed)\"\n    secondary_test:\
+  \ \"Mann-Whitney U test (if normality assumption is violated)\"\n    data_handling:\n\
+  \      outliers: \"Winsorize top/bottom 5% of velocity changes to handle sprint\
+  \ anomalies.\"\n      missing_data: \"Exclude participants with <75% protocol adherence\
+  \ (Per-Protocol Analysis).\"\n\n  threats_to_validity:\n    internal:\n      - \"\
+  Adherence: Participants may not strictly follow the timer.\"\n        - *Mitigation:*\
+  \ Use automated logger; require screen-time screenshot or active timer logs.\n \
+  \     - \"Story Point Inflation: Teams might inflate points to look 'productive'.\"\
+  \n        - *Mitigation:* Use 'Normalized Velocity' against their own history, assuming\
+  \ inflation rate is constant over 6 weeks.\n    external:\n      - \"Task Complexity:\
+  \ 45m might suit backend deep work better than support tickets.\"\n        - *Mitigation:*\
+  \ Stratification by role type.\n\n  ethics:\n    consent: \"Written informed consent\
+  \ required.\"\n    privacy: \"Data pseudonymized. Individual performance data explicitly\
+  \ NOT shared with managers/HR.\"\n    risk_mitigation: \"Participants advised to\
+  \ revert to normal working patterns if experiencing excessive fatigue.\"\n\n  timeline_execution:\n\
+  \    week_0: \"Recruitment, Consent, Baseline Calculation, Group Assignment.\"\n\
+  \    week_1: \"Onboarding & Tool Setup (Dry run).\"\n    week_2_5: \"Core Experiment\
+  \ execution.\"\n    week_6: \"Final week & Post-experiment qualitative interview.\"\
+  \n```"

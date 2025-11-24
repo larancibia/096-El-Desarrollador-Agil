@@ -1,0 +1,39 @@
+book:
+  title: "El Desarrollador \xC1gil"
+  subtitle: Evidence-Based Insights for Software Engineers
+  author: Luis Arancibia
+  topic: productivity
+  target_words: 75000
+  target_pages: 280
+  target_chapters: 12
+research:
+  databases:
+  - arxiv
+  - google_scholar
+  - acm_digital_library
+  keywords:
+  - developer productivity
+  - software engineering effectiveness
+  - cognitive load programming
+  - deep work developers
+  - focus and flow state
+benchmarks:
+- Deep Work by Cal Newport
+- Agilmente by Estanislao Bachrach
+- Thinking, Fast and Slow by Daniel Kahneman
+experiments:
+  planned: []
+  completed: []
+writing:
+  tone: accessible_expert
+  style: evidence_based
+  balance:
+    technical: 60
+    narrative: 40
+citations:
+  style: apa
+  min_per_chapter: 10
+validation:
+  check_logical_fallacies: true
+  require_evidence: true
+  flag_absolute_statements: true

@@ -1,0 +1,22 @@
+============================================================
+RESEARCH SYNTHESIZER - Finding Scientific Evidence
+============================================================
+
+Query: software developer productivity measurement empirical
+Databases: arxiv
+Limit: 10 papers
+
+Searching databases...
+  - Searching arXiv...
+    Warning: arxiv package not installed. Skipping arXiv search.
+
+  Found 0 papers total
+
+  ✓ Saved: outputs/research_synthesis.md
+
+============================================================
+RESEARCH COMPLETE!
+============================================================
+
+Output: outputs/research_synthesis.md
+Bibliography: outputs/bibliography.bib
