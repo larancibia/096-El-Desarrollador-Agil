@@ -7,21 +7,21 @@
 
 ## 📥 **DESCARGA DIRECTA DEL PDF COMPLETO**
 
-### ⬇️ **[DESCARGAR PDF FINAL - 2 CAPÍTULOS COMPLETOS (79 KB)](https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_FINAL.pdf)**
+### ⬇️ **[DESCARGAR PDF - 3 CAPÍTULOS COMPLETOS (97 KB)](https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_3CAPITULOS.pdf)**
 
 **Link directo de descarga:**
 ```
-https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_FINAL.pdf
+https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_3CAPITULOS.pdf
 ```
 
-**Contenido del PDF:**
-- ✅ **10,028 palabras** de contenido bestseller-quality
+**Contenido del PDF (13,110 palabras):**
 - ✅ **Portada profesional** + Índice
-- ✅ **CAPÍTULO 1 COMPLETO** - "El Cerebro del Desarrollador" (4,780 palabras ⭐⭐⭐⭐⭐)
-- ✅ **CAPÍTULO 2 COMPLETO** - "El Costo Real del Context Switching" (5,248 palabras ⭐⭐⭐⭐⭐)
-- ✅ **4 Experimentos Científicos RCT** con protocolos completos
-- ✅ **Research Synthesis** (50+ papers científicos)
-- ✅ **Referencias bibliográficas**
+- ✅ **CAPÍTULO 1** - "El Cerebro del Desarrollador" (4,780 palabras ⭐⭐⭐⭐⭐)
+- ✅ **CAPÍTULO 2** - "El Costo Real del Context Switching" (5,248 palabras ⭐⭐⭐⭐⭐)
+- ✅ **CAPÍTULO 3** - "Deep Work para Desarrolladores" (3,082 palabras ⭐⭐⭐⭐⭐)
+- ✅ **Rigor científico** (Siegmund 2014, Leroy 2009, Newport 2016, Csikszentmihalyi)
+- ✅ **Experimentos con datos** (RCT, estadística, p-values, effect sizes)
+- ✅ **Frameworks prácticos** aplicables inmediatamente
 - ✅ **Acentos españoles perfectos** (UTF-8 nativo)
 
 ---
