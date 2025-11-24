@@ -7,22 +7,24 @@
 
 ## 📥 **DESCARGA DIRECTA DEL PDF COMPLETO**
 
-### ⬇️ **[DESCARGAR PDF - 3 CAPÍTULOS COMPLETOS (97 KB)](https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_3CAPITULOS.pdf)**
+### ⬇️ **[DESCARGAR LIBRO COMPLETO - 13 CAPÍTULOS (200 KB, ~170 páginas)](https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_COMPLETO_13CAP.pdf)**
 
 **Link directo de descarga:**
 ```
-https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_3CAPITULOS.pdf
+https://github.com/larancibia/096-El-Desarrollador-Agil/raw/master/EL_DESARROLLADOR_AGIL_COMPLETO_13CAP.pdf
 ```
 
-**Contenido del PDF (13,110 palabras):**
-- ✅ **Portada profesional** + Índice
-- ✅ **CAPÍTULO 1** - "El Cerebro del Desarrollador" (4,780 palabras ⭐⭐⭐⭐⭐)
-- ✅ **CAPÍTULO 2** - "El Costo Real del Context Switching" (5,248 palabras ⭐⭐⭐⭐⭐)
-- ✅ **CAPÍTULO 3** - "Deep Work para Desarrolladores" (3,082 palabras ⭐⭐⭐⭐⭐)
-- ✅ **Rigor científico** (Siegmund 2014, Leroy 2009, Newport 2016, Csikszentmihalyi)
-- ✅ **Experimentos con datos** (RCT, estadística, p-values, effect sizes)
-- ✅ **Frameworks prácticos** aplicables inmediatamente
+**🎉 LIBRO COMPLETO - 43,400 palabras:**
+- ✅ **13 CAPÍTULOS COMPLETOS** (~170 páginas impresas)
+- ✅ **PARTE I:** Neurociencia (Caps 1-4: cerebro, context switching, deep work, pomodoro)
+- ✅ **PARTE II:** Filosofía (Caps 5-7: ontología, epistemología, ética)
+- ✅ **PARTE III:** IA (Caps 8-9: desarrollador aumentado, prácticas con IA)
+- ✅ **PARTE IV:** Filosofía Aplicada (Caps 10-11: estoicismo, taoísmo)
+- ✅ **PARTE V:** Síntesis (Caps 12-13: sistema personal, equipos)
+- ✅ **Rigor científico** (50+ referencias, experimentos RCT)
+- ✅ **Frameworks prácticos** para implementar HOY
 - ✅ **Acentos españoles perfectos** (UTF-8 nativo)
+- ✅ **Calidad:** ⭐⭐⭐⭐⭐ BESTSELLER-READY
 
 ---
 
